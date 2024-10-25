@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+media/
+*.sqlite3
+*.sqlite3-journal
+
+# Environment variables
+.env
+
+# Ignore virtual environments
+venv/
+env/
+.virtualenv/
+
+# pipenv files
+Pipfile.lock
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest and coverage reports
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# MyPy
+.mypy_cache/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
